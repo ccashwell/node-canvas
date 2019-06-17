@@ -4,7 +4,6 @@
   "version": "2.6.0",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
   "main": "index.js",
-  "browser": "browser.js",
   "contributors": [
     "Nathan Rajlich <nathan@tootallnate.net>",
     "Rod Vagg <r@va.gg>",
